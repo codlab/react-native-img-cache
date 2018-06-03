@@ -8,7 +8,7 @@
     "lint": "tslint --project tsconfig.json",
     "build": "tsc --pretty",
     "watch": "tsc --watch --pretty",
-    "test": "npm run lint && npm run build",
+    "test": "npm run lint && npm run build"
   },
   "files": [
     "build"
